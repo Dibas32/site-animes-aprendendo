@@ -1,0 +1,30 @@
+body {
+  background-color: #41424c;
+}
+
+.cabecalho {
+  background-color: #41424c;
+  border-bottom: 4px solid #0fd9c4;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+.logo-site {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.cabecalho h1 {
+  font-size: 3;
+  margin-bottom: 8px;
+}
+
+.menus {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  background-color: #1f1f22;
+  padding: 12px;
+}
